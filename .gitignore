@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+davidpy/.ensembl_to_hgnc_human.txt
+.ensembl_to_hgnc_human.txt
+list1.txt

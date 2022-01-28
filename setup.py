@@ -7,7 +7,7 @@ requirements = ["pandas>=1.0.0", "suds>=0.4", "biomart"]
 
 setup(
     name="DAVIDpy",
-    version="0.1.0",
+    version="0.1.1",
     author="Narek Engibaryan",
     author_email="narek030601@yandex.ru",
     description="Python3 extension for DAVID Bioinformatics Tool",
